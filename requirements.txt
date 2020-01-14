@@ -1,0 +1,7 @@
+aiohttp[speedups]
+jupyter
+jupyterlab
+requests
+ipywidgets
+appmode
+lxml
